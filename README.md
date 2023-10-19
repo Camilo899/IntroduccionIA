@@ -6,4 +6,4 @@
 - Programa : Ingeniería de Sistemas (Virtual)
 
 ## Videos
-- [Video Segunda Entrega](https://www.youtube.com/watch?v=iIA8uLm9j-k)https://www.youtube.com/watch?v=iIA8uLm9j-k
+- [Video Segunda Entrega](https://www.youtube.com/watch?v=iIA8uLm9j-k)
