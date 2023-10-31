@@ -5,7 +5,7 @@
 - C.C : 1001576387
 - Programa : Ingeniería de Sistemas (Virtual)
 
-- ## Datos
+## Datos
 Los datos del proyecto provienen de [La base de dato Kaggle, Telco_Customer_Churn](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
 
 ## Videos
