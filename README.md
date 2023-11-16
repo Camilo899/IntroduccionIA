@@ -10,3 +10,4 @@ Los datos del proyecto provienen de [La base de dato Kaggle, Telco_Customer_Chur
 ##
 ## Videos
 - [Video Segunda Entrega](https://www.youtube.com/watch?v=iIA8uLm9j-k)
+- [Video Entrega Final](https://youtu.be/7JMqF7qcwRE)
